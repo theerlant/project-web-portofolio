@@ -1,2 +1,3 @@
-# project-web-portofolio
-Mini Project Website Portofolio untuk Bootcamp Lumoshive
+# Personal Portofolio Website
+## Basic HTML, CSS, JS
+Mini Project Dasar Pemrograman Web.
