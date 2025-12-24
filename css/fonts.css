@@ -1,0 +1,17 @@
+/* Font custom untuk semua */
+@font-face {
+  font-family: "jakarta-sans";
+  src: url("../fonts/jakarta-sans.ttf");
+}
+
+@font-face {
+  font-family: "jakarta-sans";
+  src: url("../fonts/jakarta-sans_italic.ttf");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "jetbrains-mono";
+  src: url("../fonts/jetbrains-mono.ttf");
+  font-display: swap;
+}

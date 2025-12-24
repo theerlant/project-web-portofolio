@@ -1,0 +1,32 @@
+.transition-all {
+  transition: all 0.5s ease;
+}
+
+.mono {
+  font-family: "jetbrains-mono", "Courier New", Courier, monospace;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.justify-end {
+  justify-content: end;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.flex {
+  flex: 1;
+}
+
+.gap-1rem {
+  gap: 1rem;
+}
+
+.width-full {
+  width: 100%;
+}
